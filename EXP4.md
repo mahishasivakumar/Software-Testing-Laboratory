@@ -34,7 +34,8 @@ else:
    print("Enter a Positive Integer.")
 ```
 ### Output:
-![373520131-e09da04f-1e0a-49ca-bcdc-6882fc72794a](https://github.com/user-attachments/assets/5c3c4be2-08f8-4c0e-a235-f2b492d78c51)
+![377939627-5c3c4be2-08f8-4c0e-a235-f2b492d78c51](https://github.com/user-attachments/assets/fe05b776-1802-4e45-82d2-605b57ff5eb8)
+
 
 
 ### Result:
