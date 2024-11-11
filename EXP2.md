@@ -76,7 +76,8 @@ else:
 
 ```
 ### Output:
-![373515420-29b07717-cef1-4715-89bd-b0507bebc78b](https://github.com/user-attachments/assets/21c800d6-a6a0-47c2-846f-bc309170d371)
+![377954634-21c800d6-a6a0-47c2-846f-bc309170d371](https://github.com/user-attachments/assets/9db31b8d-2f3f-4f45-a6b5-a9f6cf6a3d77)
+
 
 
 
