@@ -42,7 +42,8 @@ else:
 ```
 
 ### Output:
-![373517616-23c03d2c-ddc5-43a0-95f2-05d2729b09a6](https://github.com/user-attachments/assets/fd8cdcb8-7008-42d9-b634-51549c56aa47)
+![377935322-fd8cdcb8-7008-42d9-b634-51549c56aa47](https://github.com/user-attachments/assets/9e8e2c50-0b89-44af-903f-77f920ab3e06)
+
 
 ### Result:
 Thus, the python program to check the number is prime or not is implemented and the output is verified successfully.
