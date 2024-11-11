@@ -45,7 +45,8 @@ except:
     print("Enter a valid input!")
 ```
 ### Output:
-![373523966-44dda912-8454-40bc-b127-f8037e2aec98](https://github.com/user-attachments/assets/bf6b8780-61c7-4f6b-9b0f-0e8ad8a64184)
+![377941486-bf6b8780-61c7-4f6b-9b0f-0e8ad8a64184](https://github.com/user-attachments/assets/e17cfa51-ed3a-4444-89d2-2727705b7e19)
+
 
 ### Result:
 Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
