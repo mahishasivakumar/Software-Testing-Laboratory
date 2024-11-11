@@ -37,7 +37,8 @@ else:
         print("The given string is not a palindrome")
 ```
 ### Output:
-![377884726-639cb0ef-8ebd-4b55-b0c3-9cd2d537ad91](https://github.com/user-attachments/assets/a84724f1-2321-40e9-8160-48425ef278c6)
+![377943310-a84724f1-2321-40e9-8160-48425ef278c6](https://github.com/user-attachments/assets/c3893b03-5f88-4d81-b112-f9ae9265e7cd)
+
 
 ### Result:
 Thus, a program to check palindrome has been written and test cases have been written and verified successfully.
